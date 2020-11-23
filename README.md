@@ -1,0 +1,2 @@
+# Bootcamp-Gostack-ReactNativeTypeScript-Challenges-7
+ This is the BootCamp Rocketseat challenge number 07, an application was created in React Native and Typescript using various technologies and concepts such as Cart operations, typing, Componentization, properties, Hooks like useCallBack, useMemo, useEffect, useState, routes, navigation , formatting values, Styled-components, Async Storage, Context API, State Management, Icons with FeatherIcon Axios, Fake API rest, Status Bar and Unit Tests
