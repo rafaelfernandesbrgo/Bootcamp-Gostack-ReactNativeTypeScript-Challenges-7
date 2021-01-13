@@ -74,3 +74,8 @@ Instruções para uso:
 
 ```
  
+ ![alt text](https://github.com/rafaelfernandesbrgo/Bootcamp-Gostack-ReactNativeTypeScript-Challenges-7/blob/main/arts/Art%20GoMarketPlace%20(1).png)
+ 
+ ![alt text](https://github.com/rafaelfernandesbrgo/Bootcamp-Gostack-ReactNativeTypeScript-Challenges-7/blob/main/arts/Art%20GoMarketPlace%20(2).png)
+ 
+ 
